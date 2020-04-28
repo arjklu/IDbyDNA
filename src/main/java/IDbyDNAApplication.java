@@ -1,12 +1,19 @@
+import com.IDbyDNA.Service.CalculateKmerSequence;
 import com.IDbyDNA.Service.DataFormatter;
+import com.IDbyDNA.Service.Impl.CalculateKmerSequenceImpl;
 import com.IDbyDNA.Service.Impl.JsonFormatter;
 import com.IDbyDNA.Service.Impl.TextFormatter;
 
 public class IDbyDNAApplication {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         //Question 1: Calculating distinct k-mers, total k-mers and highest k-mer count
+        CalculateKmerSequence kmerSequence = new CalculateKmerSequenceImpl("src/main/resources/SRR1748776.fa");
+        kmerSequence.printUniqueKmer();
+        kmerSequence.printTotalKmer();
+        kmerSequence.printKmerWithHighestCount();
+        System.out.println("");
 
         //Question 2: Parsing through test and JSON file (Includes both valid and invalid scenarios)
 

@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c2391fd-f62d-44c4-8ed5-ecdf4944b0c0" name="Default Changelist" comment="" />
+    <list default="true" id="5c2391fd-f62d-44c4-8ed5-ecdf4944b0c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/Impl/CalculateKmerSequenceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/IDbyDNA/dto/MaxKmerDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDbyDNA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IDbyDNAApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IDbyDNAApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/CalculateUniqueKmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/CalculateUniqueKmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/UniqueSequencing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/CalculateKmerSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IDbyDNAApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IDbyDNAApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/IDbyDNA.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Service/CalculateUniqueKmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Service/CalculateUniqueKmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Service/DataFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Service/DataFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Service/Impl/JsonFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Service/Impl/JsonFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Service/Impl/TextFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Service/Impl/TextFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Service/UniqueSequencing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Utils/HashNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Utils/HashNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Utils/IDbyDnaMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/IDbyDNA/Utils/IDbyDnaMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/IDbyDNA/dto/JsonDataFormatDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/IDbyDNA/dto/JsonDataFormatDto.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1b2axSPLfKu9ZwwiroQiuyuFbAS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +48,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -34,16 +61,21 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UniqueSequencing">
-    <configuration name="IDbyDNAApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IDbyDNAApplication" />
-      <module name="IDbyDNA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniqueSequencing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.IDbyDNA.Service.UniqueSequencing" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.IDbyDNAApplication">
+    <configuration name="CalculateKmerSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IDbyDNA.Service.CalculateKmerSequence" />
       <module name="IDbyDNA" />
       <extension name="coverage">
         <pattern>
@@ -55,10 +87,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IDbyDNAApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IDbyDNAApplication" />
+      <module name="IDbyDNA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UniqueSequencing" />
         <item itemvalue="Application.IDbyDNAApplication" />
+        <item itemvalue="Application.CalculateKmerSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -74,6 +113,17 @@
       <updated>1587832889092</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="430" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587845849506">
@@ -159,7 +209,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/IDbyDNAApplication.java</url>
-          <line>22</line>
+          <line>29</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -169,18 +219,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/CalculateUniqueKmer.java</url>
-          <line>19</line>
+          <line>33</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/UniqueSequencing.java</url>
-          <line>39</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/CalculateKmerSequence.java</url>
+          <line>41</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/UniqueSequencing.java</url>
-          <line>43</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/CalculateKmerSequence.java</url>
+          <line>45</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/IDbyDNAApplication.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
