@@ -1,6 +1,4 @@
-# IDbyDNA
-Note: To understand more about this challenge, please read the SWE Challenge _04092020.docx.
-
+# IDbyDNA Code Challenge
 Below are the steps to execute this project in your local machine:
 
 1. Clone this project to your local machine using the command: 'git clone https://github.com/arjklu/IDbyDNA.git'
