@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c2391fd-f62d-44c4-8ed5-ecdf4944b0c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b2axSPLfKu9ZwwiroQiuyuFbAS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UniqueSequencing">
+    <configuration name="IDbyDNAApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IDbyDNAApplication" />
+      <module name="IDbyDNA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueSequencing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IDbyDNA.Service.UniqueSequencing" />
+      <module name="IDbyDNA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IDbyDNA.Service.Impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UniqueSequencing" />
+        <item itemvalue="Application.IDbyDNAApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c2391fd-f62d-44c4-8ed5-ecdf4944b0c0" name="Default Changelist" comment="" />
+      <created>1587832889092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587832889092</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587845849506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="430" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1587845849506" />
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1588039330498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1588039330498" />
+    <state x="367" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588043525388">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="367" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1588043525388" />
+    <state x="458" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1587883035317">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587883035317" />
+    <state x="483" y="163" key="#xdebugger.evaluate" timestamp="1587967945576">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1587967945576" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588045819631">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588045819631" />
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1587859027626" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588045819627">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588045819627" />
+    <state width="1398" height="259" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1587859027623" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588045819625">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588045819625" />
+    <state width="1398" height="259" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1587859027622" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588045819629">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588045819629" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1587859027625" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom" timestamp="1588045579832">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588045579832" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.23.1440.803@0.23.1440.803" timestamp="1587859026906" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center" timestamp="1588045579831">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588045579831" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.23.1440.803@0.23.1440.803" timestamp="1587859026904" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left" timestamp="1588045579830">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588045579830" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.23.1440.803@0.23.1440.803" timestamp="1587859026902" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right" timestamp="1588045579831">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588045579831" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.23.1440.803@0.23.1440.803" timestamp="1587859026905" />
+    <state x="208" y="33" key="SettingsEditor" timestamp="1588039893262">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="33" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588039893262" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1588044757357">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1588044757357" />
+    <state x="376" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1588045694026">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="293" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588045694026" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1587963173431" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587919034130">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587919034130" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/IDbyDNAApplication.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/Impl/JsonFormatter.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/CalculateUniqueKmer.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/UniqueSequencing.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/IDbyDNA/Service/UniqueSequencing.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
